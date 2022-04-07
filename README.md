@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomasEmnetu
-- 👀 I’m interested in Cryptography, Crypto Currency, UX Design, Virtual Reality Design 
+- 👀 I’m interested in Crypto Currency, UX Design, and Virtual Reality Design 
 - 🌱 I’m currently learning Object Oriented Programming in Java
 - 💞️ I’m looking to collaborate on Projects as a PM, Designer, or Coder
 - 📫 How to reach me thomasemnetu@icloud.com
