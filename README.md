@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThomasEmnetu
-- 👀 I’m interested in Crypto Currency, UX Design, and Virtual Reality Design 
-- 🌱 I’m currently learning Frontend/Backend Development skills in HTML, CSS, React, and JavaScript
-- 💞️ I’m looking to collaborate on Projects as a PM, Designer, or Coder
+- 👀 I’m infatuated with designing memorable interactions and experiences 
+- 🌱 I’m currently building an Autonomous AI agent to execute day trades for retail traders
+- 💞️ I’m always eager to collaborate on projects that push the bounds of human-computer interactions
 
 
 <!---
