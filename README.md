@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ThomasEmnetu
-- 👀 I’m infatuated with designing memorable interactions and experiences 
-- 🌱 I’m currently building an Autonomous AI agent to execute day trades for retail traders
-- 💞️ I’m always eager to collaborate on projects that push the bounds of human-computer interactions
+infatuated with designing memorable interactions and experiences 
 
 
 <!---
