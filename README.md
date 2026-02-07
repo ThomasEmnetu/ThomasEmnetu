@@ -1,4 +1,5 @@
-infatuated with designing memorable interactions and experiences 
+- designer @ msft
+- infatuated with designing memorable interactions & experiences
 
 
 <!---
