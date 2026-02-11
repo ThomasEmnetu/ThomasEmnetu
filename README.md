@@ -1,5 +1,7 @@
-- designer @ msft
-- infatuated with designing memorable interactions & experiences
+- product designer
+- infatuated with solving problems
+- creating memorable interactions & experiences
+- unlocking 10x productivity thru agents
 
 
 <!---
