@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/copilot-banner.svg" alt="GitHub Copilot CLI banner" width="780" />
+  <img src="./assets/copilot-banner.svg?v=36dbef5" alt="GitHub Copilot CLI banner" width="780" />
 </p>
 
 - product designer
