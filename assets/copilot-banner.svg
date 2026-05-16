@@ -1,4 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 725 244" width="725" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+  <defs>
+    <mask id="sweepMask" maskUnits="userSpaceOnUse">
+      <rect x="0" y="86.0" width="725" height="108.0" fill="black"/>
+      <rect x="-10.799999999999997" y="86.0" width="50" height="108.0" fill="white">
+        <animate attributeName="x" values="-10.799999999999997;-10.799999999999997;434.0;434.0;-10.799999999999997" keyTimes="0;0.2429;0.4429;0.95;1" dur="3500ms" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
   <g opacity="1" shape-rendering="crispEdges">
     <animate attributeName="opacity" values="1;0;0" keyTimes="0.0000;0.0229;1.0000" dur="3500ms" repeatCount="indefinite" calcMode="discrete"/>
     <text x="14.0" y="46.0" fill="#F063ED" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">┌┐</text>
@@ -1144,16 +1152,221 @@
     <text x="14.0" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">└──</text>
     <text x="652.4" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">──┘</text>
   </g>
-  <g opacity="0" shape-rendering="crispEdges">
-    <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.2429;0.4286" dur="3500ms" repeatCount="indefinite" calcMode="discrete"/>
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 0;403.20000000000005 0;403.20000000000005 0" keyTimes="0;0.2429;0.4286;1" dur="3500ms" repeatCount="indefinite"/>
-    <text x="47.6" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">█</text>
-    <text x="56.0" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">█</text>
-    <text x="64.4" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">█</text>
-    <text x="39.2" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">█</text>
-    <text x="47.6" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">█</text>
-    <text x="39.2" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">█</text>
-    <text x="47.6" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">█</text>
-    <text x="39.2" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs" font-weight="bold">█</text>
+  <g mask="url(#sweepMask)" opacity="0">
+    <animate attributeName="opacity" values="0;1;1" keyTimes="0.0000;0.2429;1.0000" dur="3500ms" repeatCount="indefinite" calcMode="discrete"/>
+    <text x="106.4" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="114.8" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="123.2" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="131.6" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="140.0" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="148.4" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="165.2" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="173.6" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="182.0" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="190.4" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="198.8" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="207.2" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="224.0" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="232.4" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="240.8" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="249.2" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="257.6" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="266.0" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="316.4" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="324.8" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="333.2" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="341.6" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="47.6" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="350.0" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="358.4" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="375.2" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="383.6" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="392.0" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="400.4" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="408.8" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="417.2" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="425.6" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="56.0" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="64.4" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="72.8" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="81.2" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="89.6" y="100.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="98.0" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="106.4" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="114.8" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┌</text>
+    <text x="123.2" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="131.6" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="140.0" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="148.4" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="156.8" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="165.2" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="173.6" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="182.0" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┌</text>
+    <text x="190.4" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="198.8" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="207.2" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="215.6" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="224.0" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="232.4" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="240.8" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="249.2" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="257.6" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="39.2" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="266.0" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="308.0" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="316.4" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="324.8" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┌</text>
+    <text x="333.2" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="341.6" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="47.6" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="350.0" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="358.4" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="366.8" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="375.2" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="383.6" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="392.0" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="400.4" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="408.8" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┌</text>
+    <text x="417.2" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="425.6" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="56.0" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┌</text>
+    <text x="64.4" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="72.8" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="81.2" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="89.6" y="118.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="98.0" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="106.4" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="114.8" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="140.0" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="148.4" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="156.8" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="165.2" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="173.6" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="182.0" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="190.4" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="198.8" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="207.2" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┌</text>
+    <text x="215.6" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="224.0" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="232.4" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="240.8" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="249.2" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="257.6" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="39.2" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="266.0" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="308.0" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="316.4" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="324.8" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="47.6" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="350.0" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="358.4" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="366.8" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="392.0" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="400.4" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="408.8" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="56.0" y="136.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="98.0" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="106.4" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="114.8" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="140.0" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="148.4" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="156.8" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="165.2" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="173.6" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="182.0" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┌</text>
+    <text x="190.4" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="198.8" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="207.2" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="224.0" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="232.4" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="240.8" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="249.2" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="257.6" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="39.2" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="266.0" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="308.0" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="316.4" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="324.8" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="47.6" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="350.0" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="358.4" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="366.8" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="392.0" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="400.4" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="408.8" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="56.0" y="154.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="98.0" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="106.4" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="114.8" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="123.2" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="131.6" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="140.0" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="148.4" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┌</text>
+    <text x="156.8" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="165.2" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="173.6" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="182.0" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="224.0" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="232.4" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="240.8" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="249.2" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="257.6" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="39.2" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="266.0" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="274.4" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="282.8" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="291.2" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="299.6" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="308.0" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="316.4" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="324.8" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="333.2" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="341.6" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="47.6" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="350.0" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="358.4" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┌</text>
+    <text x="366.8" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="392.0" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="400.4" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="408.8" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="56.0" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="64.4" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="72.8" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="81.2" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">█</text>
+    <text x="89.6" y="172.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┐</text>
+    <text x="106.4" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="114.8" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="123.2" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="131.6" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="140.0" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="148.4" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="165.2" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="173.6" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="182.0" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="224.0" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="232.4" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="240.8" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="249.2" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="257.6" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="266.0" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="274.4" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="282.8" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="291.2" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="299.6" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="316.4" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="324.8" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="333.2" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="341.6" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="47.6" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="350.0" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="358.4" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="392.0" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">└</text>
+    <text x="400.4" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="408.8" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
+    <text x="56.0" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="64.4" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="72.8" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="81.2" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">─</text>
+    <text x="89.6" y="190.0" fill="#ffffff" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">┘</text>
   </g>
 </svg>
