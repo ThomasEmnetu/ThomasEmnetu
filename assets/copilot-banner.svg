@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 725 244" width="725" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 691 244" width="691" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
   <defs>
     <mask id="sweepMask" maskUnits="userSpaceOnUse">
-      <rect x="0" y="86.0" width="725" height="108.0" fill="black"/>
+      <rect x="0" y="86.0" width="691" height="108.0" fill="black"/>
       <rect x="-10.799999999999997" y="86.0" width="50" height="108.0" fill="white">
         <animate attributeName="x" values="-10.799999999999997;-10.799999999999997;434.0;434.0;-10.799999999999997" keyTimes="0;0.2429;0.4429;0.95;1" dur="3500ms" repeatCount="indefinite"/>
       </rect>
@@ -467,14 +467,13 @@
     <text x="526.4" y="190.0" fill="#7ee787" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">▀</text>
     <text x="534.8" y="190.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">▐</text>
     <text x="14.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
-    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">Tho</text>
-    <text x="299.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">m</text>
-    <text x="308.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">as Emne</text>
-    <text x="366.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">t</text>
-    <text x="375.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="84.0" lengthAdjust="spacingAndGlyphs">u's GitHub</text>
-    <text x="459.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="109.2" lengthAdjust="spacingAndGlyphs">    ▀▀██▄▄▄▄▄</text>
-    <text x="568.4" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">▀ </text>
-    <text x="618.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
+    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">CLI</text>
+    <text x="299.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">-</text>
+    <text x="308.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">first d</text>
+    <text x="366.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">e</text>
+    <text x="375.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="84.0" lengthAdjust="spacingAndGlyphs">signer    </text>
+    <text x="459.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="109.2" lengthAdjust="spacingAndGlyphs">▀▀██▄▄▄▄▄▀   </text>
+    <text x="585.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
     <text x="14.0" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">└──</text>
     <text x="39.2" y="226.0" fill="#c9d1d9" xml:space="preserve" textLength="554.4" lengthAdjust="spacingAndGlyphs">                                                               ──┘</text>
   </g>
@@ -607,13 +606,13 @@
     <text x="459.2" y="190.0" fill="#F063ED" xml:space="preserve" textLength="50.4" lengthAdjust="spacingAndGlyphs">▀████▄</text>
     <text x="568.4" y="190.0" fill="#F063ED" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">▄▌</text>
     <text x="14.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
-    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">Tho</text>
-    <text x="299.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">m</text>
-    <text x="308.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">as Emne</text>
-    <text x="366.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">t</text>
-    <text x="375.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="109.2" lengthAdjust="spacingAndGlyphs">u's GitHub   </text>
-    <text x="484.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="92.4" lengthAdjust="spacingAndGlyphs">    ▀▀█████</text>
-    <text x="576.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="100.8" lengthAdjust="spacingAndGlyphs">███▀       │</text>
+    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">CLI</text>
+    <text x="299.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">-</text>
+    <text x="308.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">first d</text>
+    <text x="366.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">e</text>
+    <text x="375.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="109.2" lengthAdjust="spacingAndGlyphs">signer       </text>
+    <text x="484.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="92.4" lengthAdjust="spacingAndGlyphs">▀▀████████▀</text>
+    <text x="576.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="67.2" lengthAdjust="spacingAndGlyphs">       │</text>
     <text x="14.0" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">└──</text>
     <text x="39.2" y="226.0" fill="#c9d1d9" xml:space="preserve" textLength="604.8" lengthAdjust="spacingAndGlyphs">                                                                     ──┘</text>
   </g>
@@ -745,13 +744,13 @@
     <text x="467.6" y="190.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">▀█████▄</text>
     <text x="593.6" y="190.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">▄█▀</text>
     <text x="14.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
-    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">Tho</text>
-    <text x="299.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">m</text>
-    <text x="308.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">as Emne</text>
-    <text x="366.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">t</text>
-    <text x="375.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="109.2" lengthAdjust="spacingAndGlyphs">u's GitHub   </text>
-    <text x="501.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="100.8" lengthAdjust="spacingAndGlyphs">    ▀▀██████</text>
-    <text x="602.0" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="100.8" lengthAdjust="spacingAndGlyphs">███▀       │</text>
+    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">CLI</text>
+    <text x="299.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">-</text>
+    <text x="308.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">first d</text>
+    <text x="366.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">e</text>
+    <text x="375.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="109.2" lengthAdjust="spacingAndGlyphs">signer       </text>
+    <text x="501.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="100.8" lengthAdjust="spacingAndGlyphs">▀▀█████████▀</text>
+    <text x="602.0" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="67.2" lengthAdjust="spacingAndGlyphs">       │</text>
     <text x="14.0" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">└──</text>
     <text x="39.2" y="226.0" fill="#c9d1d9" xml:space="preserve" textLength="613.2" lengthAdjust="spacingAndGlyphs">                                                                        ─</text>
     <text x="652.4" y="226.0" fill="#F063ED" xml:space="preserve" textLength="16.8" lengthAdjust="spacingAndGlyphs">─┘</text>
@@ -885,14 +884,13 @@
     <text x="459.2" y="190.0" fill="#F063ED" xml:space="preserve" textLength="42.0" lengthAdjust="spacingAndGlyphs">▀███▄</text>
     <text x="602.0" y="190.0" fill="#F063ED" xml:space="preserve" textLength="42.0" lengthAdjust="spacingAndGlyphs">▄███▀</text>
     <text x="14.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
-    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">Tho</text>
-    <text x="299.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">m</text>
-    <text x="308.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">as Emne</text>
-    <text x="366.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">t</text>
-    <text x="375.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="109.2" lengthAdjust="spacingAndGlyphs">u's GitHub   </text>
-    <text x="484.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="134.4" lengthAdjust="spacingAndGlyphs">    ▀▀██████████</text>
-    <text x="618.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="50.4" lengthAdjust="spacingAndGlyphs">██▀▀  </text>
-    <text x="677.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="33.6" lengthAdjust="spacingAndGlyphs">   │</text>
+    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">CLI</text>
+    <text x="299.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">-</text>
+    <text x="308.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">first d</text>
+    <text x="366.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">e</text>
+    <text x="375.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="109.2" lengthAdjust="spacingAndGlyphs">signer       </text>
+    <text x="484.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="134.4" lengthAdjust="spacingAndGlyphs">▀▀████████████▀▀</text>
+    <text x="669.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
     <text x="14.0" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">└──</text>
     <text x="652.4" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">──┘</text>
   </g>
@@ -1014,10 +1012,9 @@
     <text x="459.2" y="190.0" fill="#F063ED" xml:space="preserve" textLength="42.0" lengthAdjust="spacingAndGlyphs">▀███▄</text>
     <text x="602.0" y="190.0" fill="#F063ED" xml:space="preserve" textLength="42.0" lengthAdjust="spacingAndGlyphs">▄███▀</text>
     <text x="14.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
-    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="210.0" lengthAdjust="spacingAndGlyphs">Thomas Emnetu's GitHub   </text>
-    <text x="484.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="134.4" lengthAdjust="spacingAndGlyphs">    ▀▀██████████</text>
-    <text x="618.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="50.4" lengthAdjust="spacingAndGlyphs">██▀▀  </text>
-    <text x="677.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="33.6" lengthAdjust="spacingAndGlyphs">   │</text>
+    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="210.0" lengthAdjust="spacingAndGlyphs">CLI-first designer       </text>
+    <text x="484.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="134.4" lengthAdjust="spacingAndGlyphs">▀▀████████████▀▀</text>
+    <text x="669.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
     <text x="14.0" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">└──</text>
     <text x="652.4" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">──┘</text>
   </g>
@@ -1141,14 +1138,13 @@
     <text x="459.2" y="190.0" fill="#F063ED" xml:space="preserve" textLength="42.0" lengthAdjust="spacingAndGlyphs">▀███▄</text>
     <text x="602.0" y="190.0" fill="#F063ED" xml:space="preserve" textLength="42.0" lengthAdjust="spacingAndGlyphs">▄███▀</text>
     <text x="14.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
-    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">Tho</text>
-    <text x="299.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">m</text>
-    <text x="308.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">as Emne</text>
-    <text x="366.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">t</text>
-    <text x="375.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="109.2" lengthAdjust="spacingAndGlyphs">u's GitHub   </text>
-    <text x="484.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="134.4" lengthAdjust="spacingAndGlyphs">    ▀▀██████████</text>
-    <text x="618.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="50.4" lengthAdjust="spacingAndGlyphs">██▀▀  </text>
-    <text x="677.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="33.6" lengthAdjust="spacingAndGlyphs">   │</text>
+    <text x="274.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">CLI</text>
+    <text x="299.6" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">-</text>
+    <text x="308.0" y="208.0" fill="#F063ED" xml:space="preserve" textLength="58.8" lengthAdjust="spacingAndGlyphs">first d</text>
+    <text x="366.8" y="208.0" fill="#c9d1d9" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">e</text>
+    <text x="375.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="109.2" lengthAdjust="spacingAndGlyphs">signer       </text>
+    <text x="484.4" y="208.0" fill="#F063ED" xml:space="preserve" textLength="134.4" lengthAdjust="spacingAndGlyphs">▀▀████████████▀▀</text>
+    <text x="669.2" y="208.0" fill="#F063ED" xml:space="preserve" textLength="8.4" lengthAdjust="spacingAndGlyphs">│</text>
     <text x="14.0" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">└──</text>
     <text x="652.4" y="226.0" fill="#F063ED" xml:space="preserve" textLength="25.2" lengthAdjust="spacingAndGlyphs">──┘</text>
   </g>
