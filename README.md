@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/copilot-banner.svg" alt="GitHub Copilot CLI banner" width="780" />
+</p>
+
 - product designer
 - infatuated with solving problems
 - creating memorable interactions & experiences
