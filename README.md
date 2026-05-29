@@ -2,7 +2,7 @@
   <img src="./assets/copilot-banner.svg?v=clifirst" alt="GitHub Copilot CLI banner" width="780" />
 </p>
 
-- product designer
+- ai-enabled product designer
 - infatuated with solving problems
 - creating memorable interactions & experiences
 - unlocking 10x productivity thru agents
